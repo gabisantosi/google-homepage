@@ -1,1 +1,1 @@
-TOP first assigment. Easy Version: Build the Google.com homepage 
+First HTML/CSS project - recreating a non-functional version of the Google homepage
